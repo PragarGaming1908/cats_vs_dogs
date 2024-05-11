@@ -1,0 +1,2 @@
+!mkdir -p ~/.kaggle
+!cp kaggle.json ~/.kaggle/
